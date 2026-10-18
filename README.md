@@ -12,11 +12,12 @@ The solution? Upgrade to a premium subscription through Stripe.
 
 Yes, you have to pay to solve a calculation.
 
-<img width="1919" height="956" alt="Capture d&#39;écran 2026-10-03 213838" src="https://github.com/user-attachments/assets/0f75c4c8-58a8-4c33-924d-49a3290d1d48" />
 
 <img width="1919" height="957" alt="Capture d&#39;écran 2026-10-03 213727" src="https://github.com/user-attachments/assets/72b73dd9-64c4-48b4-92c5-48b3dd2d1808" />
 
 <img width="1919" height="957" alt="Capture d&#39;écran 2026-10-03 213756" src="https://github.com/user-attachments/assets/90c6d610-e2bf-4be4-aa6d-fd7714b8daf3" />
+
+<img width="1919" height="956" alt="Capture d&#39;écran 2026-10-03 213838" src="https://github.com/user-attachments/assets/0f75c4c8-58a8-4c33-924d-49a3290d1d48" />
 
 
 ## How It Works
